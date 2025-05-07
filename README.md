@@ -41,7 +41,7 @@
 ├── web/
 │   └── app.py                   Streamlit UI (입력 → 백엔드 호출 → 응답 출력)
 ├── config/
-│   └── settings.py              .env 환경설정 
+│   └── settings.py              
 ├── docker/
 │   └── backend.Dockerfile       Selenium 포함된 백엔드 Docker 이미지
 ├── .env                         API 키 및 설정값 저장
